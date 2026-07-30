@@ -1,20 +1,20 @@
 # WebCraft
 
-Single-file static preview of the browser-only WebCraft client.
+WebCraft is a browser-only 3D voxel survival game distributed as one
+self-contained HTML file.
 
-Play the published preview at <https://nhahan.github.io/webcraft/>.
+## Links
 
-## Current status
+- [Play WebCraft](https://nhahan.github.io/webcraft/)
+- [Open the asset gallery](https://nhahan.github.io/webcraft/#assets)
 
-- The page runs without a backend or external assets.
-- Nickname and world-list metadata are stored locally in the browser.
-- Gameplay world entry is intentionally fail-closed while the standalone
-  authority runtime is brought to parity with the Spring-backed game.
+## Standalone edition
 
-This deployment is therefore a technical preview, not yet the fully playable
-standalone edition.
+- Runs without a backend or external assets.
+- Uses the shared WebCraft client with a browser-local authority runtime.
+- Stores nicknames, worlds, and gameplay state locally in the browser.
 
 ## Artifact
 
 - File: `index.html`
-- SHA-256: `c6fd2b1b45835b38e4f5c55e785c8f42b789b4a66e6e16eb90132b70381fa45f`
+- SHA-256: `13224e18c5526c156f061868999852d45709382e269dbc9b7b86fe4bb3b6f444`
