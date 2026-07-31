@@ -17,4 +17,4 @@ self-contained HTML file.
 ## Artifact
 
 - File: `index.html`
-- SHA-256: `f9fcab95d68ca8a7a66c4e12edf481d1751ed5e738e270adc13837fb3fc40872`
+- SHA-256: `777617e6cffb111fb215cfb261338b67388325678c9d36a7402a1d8727a7be07`
