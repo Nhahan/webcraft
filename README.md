@@ -20,6 +20,6 @@ Host `index.html` and `assets/` together over HTTP(S), preserving their relative
 Opening the HTML via `file://` or copying it alone is not supported.
 
 - File: `index.html`
-  SHA-256: `d878bb84f026b5c8aa1ac3df0ce63b93fbe35e77a04f41d4d3217c86fb45676d`
+  SHA-256: `15db20fa02c60505d6e50fb7bce91f14f843ff58fc6b193a2d263b3d94329972`
 - File: `assets/webcraft_wasm.4e2aa95af732ffd584e7a81c8ee0aeeb7590090b9b6cd4186c4b3396671893da.wasm`
   SHA-256: `4e2aa95af732ffd584e7a81c8ee0aeeb7590090b9b6cd4186c4b3396671893da`
